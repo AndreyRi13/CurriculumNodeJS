@@ -1,5 +1,4 @@
 {
-  "homepage": "https://{pages-endpoint}/{repo}/{views}/{index.ejs}",
   "name": "sitioweb",
   "version": "0.0.0",
   "private": true,
